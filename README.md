@@ -1,2 +1,2 @@
-# Uvs-Solutions
+# Uva-Solutions
 This contains some uva code written in python and c++
